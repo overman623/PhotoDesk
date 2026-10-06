@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoDesk</string>
+    <string name="new_album">New album</string>
+    <string name="album_name">Album name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="album_created">Album folder created. It shows up here after a photo is added.</string>
+    <string name="album_failed">Couldn\'t create that album.</string>
+    <string name="no_albums">No photo albums on this device.</string>
+    <string name="no_photos">This album is empty.</string>
+    <string name="permission_needed">Photo access is needed to show your albums.</string>
+    <string name="photo_count">%1$d photos</string>
+    <string name="photo_position">%1$d / %2$d</string>
+    <string name="album_cover">Album cover</string>
+    <string name="photo">Photo</string>
+    <string name="sort_photos">Sort photos</string>
+    <string name="sort_hint">Drag the photo outward into an album. Tap a label to choose that album.</string>
+    <string name="sort_progress">%1$d / %2$d</string>
+    <string name="sort_done">No photos left to sort.</string>
+    <string name="set_album">Set album</string>
+    <string name="choose_slot_album">Album for this direction</string>
+    <string name="slot_empty">Choose an album for this direction first.</string>
+    <string name="skip_photo">Skip</string>
+    <string name="move_failed">Couldn\'t move that photo.</string>
+</resources>

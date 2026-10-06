@@ -1,0 +1,1 @@
+# PhotoDesk ProGuard rules.
